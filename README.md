@@ -17,6 +17,4 @@ working with the console, using conditional constructions and loops.
     Working with more complex loops (nested for loops and while loops)
 
 # Course Certificate
-
-![Programming Basics - March 2022 - Certificate](https://user-images.githubusercontent.com/105119768/167285468-cf92893f-9ca6-4d9b-9b6c-1c4a5c6783a8.jpeg)
-<img width='600px' height='1400px' src='https://user-images.githubusercontent.com/105119768/167285468-cf92893f-9ca6-4d9b-9b6c-1c4a5c6783a8.jpeg'>
+<img width='600px' height='1500px' src='https://user-images.githubusercontent.com/105119768/167285468-cf92893f-9ca6-4d9b-9b6c-1c4a5c6783a8.jpeg'>
